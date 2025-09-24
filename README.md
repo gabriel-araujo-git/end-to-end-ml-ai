@@ -59,12 +59,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🎯 Objetivo
-
-O objetivo deste repositório é servir como **vitrine de habilidades em IA/ML**, explorando desde algoritmos clássicos até aplicações práticas modernas.
-
----
-
 ## 🤝 Contribuição
 
 Sinta-se à vontade para abrir **issues** ou enviar **pull requests** para melhorias.
